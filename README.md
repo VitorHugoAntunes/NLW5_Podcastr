@@ -22,12 +22,20 @@
 
 <h2 id="installation">Installation</h2>	
 
-Clone this repository: ```git clone https://github.com/VitorHugoAntunes/NLW5_Podcastr``` </br></br>
-Install the dependencies: ```npm install``` </br></br>
-Run the project: ```yarn dev``` </br></br>
-In another terminal window, run the project API: ```yarn server``` </br>
+Clone this repository: </br>
+```git clone https://github.com/VitorHugoAntunes/NLW5_Podcastr``` </br>
 
-Then type in your browser the URL `http://localhost:3000/`
+Install the dependencies: </br> 
+```npm install``` or ```yarn``` </br>
+
+Run the project: </br> 
+```yarn dev``` </br>
+
+In another terminal window, run the project API: </br>
+```yarn server``` </br>
+
+Then type in your browser the URL: </br> 
+```http://localhost:3000/```
 
 <h2 id="technologies">Technologies</h2>
 
