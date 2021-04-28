@@ -23,7 +23,7 @@
 <h2 id="installation">Installation</h2>	
 
 Clone this repository: </br>
-```git clone https://github.com/VitorHugoAntunes/NLW5_Podcastr``` </br>
+```git clone https://github.com/VitorHugoAntunes/NLW5_Podcastr.git``` </br>
 
 Install the dependencies: </br> 
 ```npm install``` or ```yarn``` </br>
